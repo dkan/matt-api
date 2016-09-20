@@ -31,3 +31,16 @@ class FillsController < ApplicationController
     )
   end
 end
+
+# {
+#   fill: {
+#     patient_name: "name",
+#     address: {
+#       street_1: '',
+#       street_2: '',
+#       city: '',
+#       state: '',
+#       zip: '',
+#     }
+#   }
+# }
